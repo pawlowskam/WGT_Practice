@@ -1,1 +1,5 @@
 new
+this is a test for branching strategy. after this i will commit this change to the branch created by me
+and i will push my changes to the branch created and nt the main branch
+my team lead would review the changes in this branch
+and after approval , we will mrge these changes to teh main branch
